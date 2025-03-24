@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bellamy Celeman (officially Alexander Vahabov)
+- 👋 Hi, I’m Oleksandr Vahabov
 - 🐱‍🏍 I’m interested in Machine Learning, Languages and Sport
 - 📚 I’m currently learning PyTorch, German language
 - 💞️ I’m looking to collaborate on Telegram 
